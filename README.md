@@ -2,6 +2,6 @@
 java-python socket programming
 
 
-#Server - java\n
+#Server - java
 
 #Client - python
